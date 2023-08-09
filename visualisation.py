@@ -9,7 +9,7 @@ from constants import SCREEN_RESOLUTION, DISPLAY_RESOLUTION
 from utilities import Obstacle, Angles
 
 
-def visualise(populationNumber, populationSize, maxChromosomeLength):
+def visualise(populationNumber=1500, populationSize=150, maxChromosomeLength=75):
     pygame.init()
     screen = pygame.display.set_mode(SCREEN_RESOLUTION)
     font = pygame.font.SysFont('Comic Sans MS', 20)

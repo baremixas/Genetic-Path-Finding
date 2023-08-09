@@ -86,13 +86,10 @@ To stop and reset algorithm press SPACE while it is running.
 
 ## Screens
 <p align="center">
-	<img width="33%" src="./readme/launch.png">
-  <img width="33%" src="./readme/obstacles.png">
-  <img width="33%" src="./readme/path.png">
-</p>
-
-<p align="center">
-	<img width="60%" src="./readme/results.png">
+	<img width="70%" src="./readme/launch.png">
+	<img width="70%" src="./readme/obstacles.png">
+	<img width="70%" src="./readme/path.png">
+	<img width="80%" src="./readme/results.png">
 </p>
 
 ## License
